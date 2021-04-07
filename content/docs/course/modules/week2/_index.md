@@ -11,7 +11,7 @@ draft: false
 __Engineer data sets for analysis__
 
 ## Kick-starting your week
-- We'll post a clip to get you started for the week.
+- Watch [the energizer for the week](https://youtu.be/tctr4GgrD4w) on YouTube!
 
 ## Self-study and activities
 - [Marketing Analytics for Data-Rich Environments (pp. 97-108)](http://dx.doi.org/10.1509/jm.15.0413)
@@ -22,7 +22,8 @@ __Engineer data sets for analysis__
 -->
 
 ## Live stream 3
-- Develop understanding for common data operations and the "input-transformation-output" process
+- Develop understanding for [why it's necessary to prepare data sets for analysis](https://youtu.be/z_Hh1jlL1Ac)
+- [Work on an activity to perform common data transformations](activity.md)
 - Q&A on Data Challenge 2
 
 
